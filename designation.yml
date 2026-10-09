@@ -1,0 +1,10 @@
+build:
+  version: "1.4"
+designation:
+  message: "Designation service for Training tracker App handles the local API"
+  contactDetails:
+    name: "Samrat Gawali - Developer"
+    email: "samrat@gmail.com"
+  onCallSupport:
+    - (555) - 987456
+    - (555) - 965874
