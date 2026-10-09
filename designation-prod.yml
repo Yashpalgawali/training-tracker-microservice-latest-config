@@ -1,0 +1,10 @@
+build:
+  version: "2.5"
+designation:
+  message: "Designation service for Training tracker App handles the PRODUCTION API"
+  contactDetails:
+    name: "Saksham Bankar - Product owner"
+    email: "saksham@gmail.com"
+  onCallSupport:
+    - (333) - 456789
+    - (333) - 123456
