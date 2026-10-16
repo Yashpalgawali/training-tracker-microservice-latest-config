@@ -1,10 +1,11 @@
 build:
   version: "2.5"
+
 designation:
-  message: "Designation service for Training tracker App handles the PRODductionssss API"
+  message: "Welcome to TrainingTracker Designation related PRODsss API's"
   contactDetails:
-    name: "Saksham Bankar - Product owner"
-    email: "{cipher}bf144597cf2d451a05493e6a1ee82ad67e0fab9609429d2c77a854177fb1b9e083175b53158f4ac841da2ca49b8e43ec"
+    name: "Saksham Bankar - Product Owner"
+    email: "{cipher}1a51de43afa1d2840f7ad4ecfeefb60a98d7b494bde20761275ea68a988ae34315d139c9b46fa34764d816072f9eb295"
   onCallSupport:
-    - (333) - 456789
-    - (333) - 123456
+    - (888)- 123456
+    - (888)- 987456
