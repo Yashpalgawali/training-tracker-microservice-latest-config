@@ -1,0 +1,10 @@
+designation:
+  message: "Designation service of Training Tracker for local API's"
+  contactDetails:
+    name: "Samyak Pagare"
+    email: "samyak@gmail.com"
+  onCallSupport:
+    - (777) - 123456
+    - (777) - 987654
+build:
+  version: "2.6"
