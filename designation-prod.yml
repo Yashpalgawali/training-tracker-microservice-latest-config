@@ -1,0 +1,11 @@
+build:
+  version: "1.8"
+
+designation:
+  message: "Welcome to TrainingTracker designation related PRODuction API's"
+  contactDetails:
+    name: "Samrat Gawali"
+    email: "samrat@gmail.com"
+  onCallSupport:
+    - (222)- 123456
+    - (222)- 987456
