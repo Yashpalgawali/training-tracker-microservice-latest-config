@@ -1,0 +1,11 @@
+build:
+  version: "1.9"
+
+frequency:
+  message: "Welcome to TrainingTracker frequency related PRODuction API's"
+  contactDetails:
+    name: "Divyanka Bankar"
+    email: "divyanka@gmail.com"
+  onCallSupport:
+    - (777) - 123456
+    - (777) - 654987
