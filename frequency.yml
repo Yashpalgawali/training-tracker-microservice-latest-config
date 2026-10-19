@@ -1,0 +1,11 @@
+build:
+  version: "1.8"
+
+frequency:
+  message: "Welcome to TrainingTracker frequency related PRODuction API's"
+  contactDetails:
+    name: "Sksham Bankar"
+    email: "saksham@gmail.com"
+  onCallSupport:
+    - (666)- 123456
+    - (777)- 654987
