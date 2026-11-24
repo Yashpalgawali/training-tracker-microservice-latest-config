@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+company:
+  message: "Welcome to TrainingTracker employee related Product API's"
+  contactDetails:
+    name: "Kanishka"
+    email: "kanushka@gmail.com"
+  onCallSupport:
+    - (111)- 123456
+    - (111)- 987456
