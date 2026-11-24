@@ -1,0 +1,11 @@
+build:
+  version: "4.0"
+
+company:
+  message: "Welcome to TrainingTracker Employee related QA API's"
+  contactDetails:
+    name: "Saanu"
+    email: "saanu@gmail.com"
+  onCallSupport:
+    - (555)- 654123789
+    - (555)- 789654123
