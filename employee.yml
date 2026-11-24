@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+company:
+  message: "Welcome to TrainingTracker employee related local API's"
+  contactDetails:
+    name: "Saksham"
+    email: "saksham@gmail.com"
+  onCallSupport:
+    - (333)- 654123789
+    - (333)- 123045678
